@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shamanovsky.github.io/csb-e7zmre/static/css/main.ae291aac.chunk.css",
+    "main.js": "https://shamanovsky.github.io/csb-e7zmre/static/js/main.1e9e6435.chunk.js",
+    "main.js.map": "https://shamanovsky.github.io/csb-e7zmre/static/js/main.1e9e6435.chunk.js.map",
+    "runtime-main.js": "https://shamanovsky.github.io/csb-e7zmre/static/js/runtime-main.e732720c.js",
+    "runtime-main.js.map": "https://shamanovsky.github.io/csb-e7zmre/static/js/runtime-main.e732720c.js.map",
+    "static/js/2.e73d04ad.chunk.js": "https://shamanovsky.github.io/csb-e7zmre/static/js/2.e73d04ad.chunk.js",
+    "static/js/2.e73d04ad.chunk.js.map": "https://shamanovsky.github.io/csb-e7zmre/static/js/2.e73d04ad.chunk.js.map",
+    "index.html": "https://shamanovsky.github.io/csb-e7zmre/index.html",
+    "static/css/main.ae291aac.chunk.css.map": "https://shamanovsky.github.io/csb-e7zmre/static/css/main.ae291aac.chunk.css.map",
+    "static/js/2.e73d04ad.chunk.js.LICENSE.txt": "https://shamanovsky.github.io/csb-e7zmre/static/js/2.e73d04ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e732720c.js",
+    "static/js/2.e73d04ad.chunk.js",
+    "static/css/main.ae291aac.chunk.css",
+    "static/js/main.1e9e6435.chunk.js"
+  ]
+}
